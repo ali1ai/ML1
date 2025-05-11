@@ -1,0 +1,70 @@
+url: https://medium.com/data-science-collective/how-i-would-learn-to-code-if-i-could-start-over-67066009dd57
+
+Sign up
+
+Sign in
+
+Sign up
+
+Sign in
+
+
+
+Advice, insights, and ideas from the Medium data science community
+
+
+
+Member-only story
+
+--
+
+9
+
+Share
+
+How to learn to code in 2025
+
+According to various sources, the average salary for coding jobs is ~£47.5k in the UK, which is ~35% higher than the median salary of about £35k.
+
+So, coding is a very valuable skill that will earn you more money, not to mention it’s really fun.
+
+I have been coding professionally now for 4 years, working as a data scientist and machine learning engineer and in this post, I will explain how I would learn to code if I had to do it all over again.
+
+I still remember the time I wrote my first bit of code.
+
+It was 9am on the first day of my physics undergrad, and we were in the computer lab.
+
+The professor explained that computation is an integral part of modern physics as it allows us to run large-scale simulations of everything from subatomic particle collisions to the movement of galaxies.
+
+It sounded amazing.
+
+--
+
+--
+
+9
+
+Advice, insights, and ideas from the Medium data science community
+
+Top Writer: Data Science, Machine Learning & AI. 🎬 https://www.youtube.com/@egorhowell. ---- All opinions here are my own.
+
+Help
+
+Status
+
+About
+
+Careers
+
+Press
+
+Blog
+
+Privacy
+
+Rules
+
+Terms
+
+Text to speech
+
